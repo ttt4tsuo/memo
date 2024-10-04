@@ -180,3 +180,6 @@ find . -type f|xargs grep LLLL
             //android:usesCleartextTraffic="true"
 
         }
+
+
+[LINK](mydapp://test)
